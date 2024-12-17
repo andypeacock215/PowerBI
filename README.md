@@ -4,7 +4,7 @@ Back to [Welcome Page](https://andypeacock215.github.io/Welcome-To-My-Profile/)
 
 This is work that I did in Power BI during my Data Technician Skills Bootcamp.
 
-I used the Labs on W3Schools to familiarise myself with the Power BI, and learn content necessary to be able to sit the DP-900 exam.
+I used the Labs on W3Schools to familiarise myself with the Power BI, and learn content necessary to be able to sit the PL-300 exam.
 
 ## Lab 1 - Get Data in Power BI Desktop
 ![Lab1](https://github.com/user-attachments/assets/1243112d-a09b-4481-b904-c354e0b2b25b)
