@@ -1,6 +1,6 @@
 Back to [Welcome Page](https://andypeacock215.github.io/Welcome-To-My-Profile/)
 
-# PowerBI DP-900
+# PowerBI DP-900 Analysis
 
 This is work that I did in Power BI during my Data Technician Skills Bootcamp.
 
