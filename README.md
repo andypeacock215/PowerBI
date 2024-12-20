@@ -47,4 +47,5 @@ I used the Labs on Skillable to familiarise myself with the Power BI, and learn 
 ## Lab 10 - Enforce Row-level Security
 ![Lab10](https://github.com/user-attachments/assets/301d294d-ef91-455a-904a-6d64be75cc3f)
 
+##
 Back to [Welcome Page](https://andypeacock215.github.io/Welcome-To-My-Profile/)
